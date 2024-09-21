@@ -1,0 +1,2 @@
+# vimtc
+vimrc
